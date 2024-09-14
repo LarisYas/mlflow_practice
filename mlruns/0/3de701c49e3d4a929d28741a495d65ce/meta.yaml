@@ -1,0 +1,16 @@
+artifact_uri: file:///home/yashunin/Desktop/my_projects/MLOpsCourse/classification/mlruns/0/3de701c49e3d4a929d28741a495d65ce/artifacts
+deleted_time: 1726300811291
+end_time: 1726214223901
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3de701c49e3d4a929d28741a495d65ce
+run_name: chill-snipe-274
+run_uuid: 3de701c49e3d4a929d28741a495d65ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726214222712
+status: 3
+tags: []
+user_id: yashunin

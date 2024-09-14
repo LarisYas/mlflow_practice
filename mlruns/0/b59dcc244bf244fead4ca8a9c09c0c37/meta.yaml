@@ -1,0 +1,16 @@
+artifact_uri: file:///home/yashunin/Desktop/my_projects/MLOpsCourse/classification/mlruns/0/b59dcc244bf244fead4ca8a9c09c0c37/artifacts
+deleted_time: 1726300811288
+end_time: 1726300416799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b59dcc244bf244fead4ca8a9c09c0c37
+run_name: spiffy-bee-897
+run_uuid: b59dcc244bf244fead4ca8a9c09c0c37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726300415631
+status: 3
+tags: []
+user_id: yashunin

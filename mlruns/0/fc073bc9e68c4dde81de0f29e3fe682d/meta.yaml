@@ -1,0 +1,16 @@
+artifact_uri: file:///home/yashunin/Desktop/my_projects/MLOpsCourse/classification/mlruns/0/fc073bc9e68c4dde81de0f29e3fe682d/artifacts
+deleted_time: 1726300811289
+end_time: 1726300386054
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fc073bc9e68c4dde81de0f29e3fe682d
+run_name: rumbling-doe-267
+run_uuid: fc073bc9e68c4dde81de0f29e3fe682d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726300384919
+status: 3
+tags: []
+user_id: yashunin

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/yashunin/Desktop/my_projects/MLOpsCourse/classification/mlruns/0/be6c08d132da42ee9ffe55a7f67b8fe3/artifacts
+deleted_time: 1726300811292
+end_time: 1726214069224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: be6c08d132da42ee9ffe55a7f67b8fe3
+run_name: honorable-bear-595
+run_uuid: be6c08d132da42ee9ffe55a7f67b8fe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726214067952
+status: 4
+tags: []
+user_id: yashunin

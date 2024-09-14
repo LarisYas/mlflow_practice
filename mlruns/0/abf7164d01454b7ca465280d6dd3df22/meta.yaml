@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yashunin/Desktop/my_projects/MLOpsCourse/classification/mlruns/0/abf7164d01454b7ca465280d6dd3df22/artifacts
+end_time: 1726300829388
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abf7164d01454b7ca465280d6dd3df22
+run_name: righteous-sponge-284
+run_uuid: abf7164d01454b7ca465280d6dd3df22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726300828228
+status: 3
+tags: []
+user_id: yashunin

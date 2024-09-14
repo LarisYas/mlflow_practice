@@ -1,0 +1,16 @@
+artifact_uri: file:///home/yashunin/Desktop/my_projects/MLOpsCourse/classification/mlruns/0/31c103f0454e4095bd15816681d512cc/artifacts
+deleted_time: 1726300811292
+end_time: 1726214129978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 31c103f0454e4095bd15816681d512cc
+run_name: persistent-hound-23
+run_uuid: 31c103f0454e4095bd15816681d512cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726214128804
+status: 3
+tags: []
+user_id: yashunin

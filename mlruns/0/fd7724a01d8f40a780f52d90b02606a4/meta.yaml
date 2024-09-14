@@ -1,0 +1,16 @@
+artifact_uri: file:///home/yashunin/Desktop/my_projects/MLOpsCourse/classification/mlruns/0/fd7724a01d8f40a780f52d90b02606a4/artifacts
+deleted_time: 1726300811291
+end_time: 1726214138032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fd7724a01d8f40a780f52d90b02606a4
+run_name: shivering-bass-971
+run_uuid: fd7724a01d8f40a780f52d90b02606a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726214136847
+status: 3
+tags: []
+user_id: yashunin
